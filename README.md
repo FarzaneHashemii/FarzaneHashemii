@@ -6,9 +6,11 @@ Hi There! I'm Farzaneh and this is my Github Page where I share some of my Proje
 
 ### 💻 Website
 You can Learn more about me and some of my work here!
+www.farzane.ca
 
 ### 🔗 LinkedIn
 We can connect here!
+https://www.linkedin.com/in/farzanehhashemi/
 
 ### 🧮 Tools
 Some of the tools I like to use include:
